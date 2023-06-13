@@ -1,1 +1,5 @@
 Enzo Lanati
+¿Que es git?
+Git es una herramienta útil para trabajar con repositorios.
+¿Para que sirve, y como crees que va a ayudarte a usarlo en programación?
+Sirve  para trabajar sin conexión o de forma remota con facilidad.Me va ha servir para poder enviar trabajos de forma remota.
