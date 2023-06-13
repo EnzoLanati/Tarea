@@ -1,0 +1,4 @@
+¿Qué es java?
+Java es un lenguaje de programación y una plataforma informática.
+¿Qué se puede hacer con Java?
+Se puede hacer jugos,aplicaciones para el celular, aplicaciones web, entre muchas otras.
